@@ -1,0 +1,23 @@
+{
+  "name": "api_rest",
+  "version": "1.0.0",
+  "description": "API com Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniorD-Isael/API_REST.git"
+  },
+  "author": "JuniorD-Isael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuniorD-Isael/API_REST/issues"
+  },
+  "homepage": "https://github.com/JuniorD-Isael/API_REST#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
