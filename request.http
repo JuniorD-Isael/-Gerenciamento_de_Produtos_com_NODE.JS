@@ -2,10 +2,28 @@ POST http://localhost:4002/products
 content-type: application/json
 
 {
-  "name": "Caneta lilás",
-  "price": 3
+  "name": "Caderno Verde",
+  "price": 30.80
 }
 
 ###
 
 GET http://localhost:4002/products
+
+###
+
+GET http://localhost:4002/products/c7c202f2-084a-4084-a5f2-f09561eece3e
+
+###
+
+PUT http://localhost:4002/products/c7c202f2-084a-4084-a5f2-f09561eece3e
+content-type: application/json
+
+{
+  "name": "Caderno Azul Claro",
+  "price": 30.50
+}
+
+###
+
+DELETE http://localhost:4002/products/f6f28710-c951-46a6-8f5e-02b4ea8820cf
