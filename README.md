@@ -1,5 +1,6 @@
 # API_REST
-Desenvolvendo uma API Node.JS com o framework Express
+Desenvolvendo uma API Node.JS com o framework Express.
+
 Para simular um banco de dados a aplicação salva as informações em um arquivo JSON
 
 Temos as funções basicas que uma API pode precisar:
