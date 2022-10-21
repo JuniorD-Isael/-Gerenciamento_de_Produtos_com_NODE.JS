@@ -1,4 +1,4 @@
-# Gerenciamneto de Produtos
+# Gerenciamento de Produtos
 Uma API desenvolvida em Node.JS com o framework Express que recebe o nome e preço de um produto, depois salva os dados em um banco de dados.
 
 Para simular um banco de dados a aplicação salva as informações em um arquivo JSON
